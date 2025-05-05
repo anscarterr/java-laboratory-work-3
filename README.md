@@ -1,5 +1,6 @@
-Student: [Ansar Talgarov]
-Branch: [main]
+Student: Ansar Talgarov
+Branch: master
+Repo: https://github.com/anscarterr/java-laboratory-work-3.git
 
 ### What I Built
 For this project, I developed a microservice-based application called ArticleHub, which is aimed at efficiently managing and retrieving articles. The system is built using two core services: a reader-service and an article-service. These services work together to fetch, filter, paginate, and access articles by their unique identifiers. The entire backend is implemented in Java 17 using Spring Boot, ensuring a scalable and maintainable architecture.
